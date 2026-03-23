@@ -20,4 +20,4 @@
 ## 🙌 Créditos
 - **Diseño original:** [dsingr](https://www.figma.com/@dsingr) en Figma Community  
 - **Archivo de diseño:** [Ver en Figma](https://www.figma.com/community/file/1470386647617764578/figma-ui-design-create-website-hero-section-in-simple-way)  
-- **Implementación frontend:** Luis Arteaga(este repositorio)
+- **Implementación frontend:** Luis Arteaga (este repositorio)

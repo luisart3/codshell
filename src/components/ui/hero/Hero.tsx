@@ -7,7 +7,7 @@ export const Hero = () => {
     
     return (
         <>
-            <div className=" fixed top-1/2 -translate-y-1/2 w-full  md:max-w-[300px] lg:max-w-[550px]  2xl:max-w-[600px]">
+            <div className=" w-full pt-20  md:max-w-[300px] lg:max-w-[550px]  2xl:max-w-[600px] p-4">
                     <div className="flex flex-col space-y-6">
                         <div className="flex items-center border border-gray-500/30 rounded-full p-1.5 gap-2 cursor-pointer w-fit  hover:bg-gray-50">
                             <PlayCircleIcon className="size-6 text-amber-500" />
@@ -17,7 +17,7 @@ export const Hero = () => {
                             <h2 className=" text-4xl lg:text-7xl font-bold text-black ">Work the way you want</h2>
                             <p className="text-xl text-gray-600 ">A new professional network for your independent journey</p>
                         </div>
-                        <div className=" relative w-sm pl-5 p-3 border border-gray-400/80 rounded-4xl">
+                        <div className=" relative  w-sm pl-5 p-3 border border-gray-400/80 rounded-4xl">
 
                             <input id="email" name="email" type="email" 
                                 autoComplete="email"
@@ -30,7 +30,7 @@ export const Hero = () => {
                     </div>
 
             </div>
-            <div className=" fixed  bottom-8">
+            <div className=" fixed  bottom-8 -z-20">
                 <div className="w-fit rounded-full p-2 bg-zinc-100">
                         <ArrowDownIcon className="size-6" />
                 </div>
